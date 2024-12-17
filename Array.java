@@ -40,6 +40,8 @@ public class Array {
 		for(int i : arr)
 			System.out.print(i+" ");
 
+		System.out.println("Sorted in alternate order");
+
 	}
 
 }
