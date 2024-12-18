@@ -41,7 +41,6 @@ public class Array {
 			System.out.print(i+" ");
 
 		System.out.println("Sorted in alternate order");
-		System.out.println("Message from sts to branch");
 
 	}
 
